@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DouglasHFonseca
-- 👀 I’m interested in to learn more about NodeJS, JavaScript and React.
-- 🌱 I’m currently learning NodeJS, ReactJS
-- 💞️ I’m looking to collaborate on JavaScript, Node and React applications
+- 👀 I’m interested in to learn more about NodeJS and TypeScript
+- 🌱 I’m currently learning NodeJS and Typescript
+- 💞️ I’m looking to collaborate on TypeScript, Node applications
 - 📫 How to reach me: https://www.linkedin.com/in/douglashfonseca/ | Instagram: @douglashfonseca
 
 <!---
